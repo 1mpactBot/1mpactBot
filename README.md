@@ -1,5 +1,5 @@
-####                                                                        Hi there 👋, I am Saransh
- ###                                                                            a web developer.
+ ### Hi there 👋, I am Saransh
+#### a web developer.
 ![a web developer.](https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif)
 
 I learn and live.
