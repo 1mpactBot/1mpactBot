@@ -10,7 +10,7 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / NODE / MONGODB / jQuery / EXPRESS
 - 🌱 I’m currently learning **React.js** 
 - 👯 I’m looking to collaborate on **Front and Back End Web Development.** 
 - 💬 Ask me about REACT / HTML / JS / BOOTSTRAP / NODE 
-- 📫 How to reach me: **saransh79@gmail.com** 
+- 📫 How to reach me: **saransh79@proton.me** 
 - ⚡ Fun fact: *Overthinking helps me burn calories.* 
 
 
